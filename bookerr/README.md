@@ -1,6 +1,6 @@
-# bookerr
+# Bookerr
 
-A new Flutter project.
+A Book Renting App (prototype for Hackjaipur)
 
 ## Getting Started
 
